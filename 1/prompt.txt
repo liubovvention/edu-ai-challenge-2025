@@ -1,0 +1,9 @@
+New task. We need to start new application:
+
+	•	Social platform with millions of users
+	•	Need to store profiles, posts, and connections between users
+	•	High data read speed required
+	•	Expected 80% read operations, 20% write operations
+	•	Scalability is important as the user base grows
+
+Let’s analyse  this set of requirements and think about the most suitable type of database we need for this project
