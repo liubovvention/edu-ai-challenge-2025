@@ -1,0 +1,9 @@
+New task. 
+
+I'm testing web application and logout button does not respond, it happens in Safary only. The task is: based on this issue provide me clear, well-structured bug ticket. The output should be presented as markdown and follow this format:
+
+1. Title Description 
+2. Steps to Reproduce 
+3. Expected vs Actual Behavior 
+4. Environment (if known) 
+5. Severity or Impact
